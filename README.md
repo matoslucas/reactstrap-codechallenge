@@ -31,7 +31,7 @@ Which code related blogs or sites do you read regularly?
 
 In Sass, what is the significance of using an underscore at the beginning of a sass file name?
 
-* A sass file starting with an underscore is a partial, That means the stylesheet it's going to be imported (@import) to a main stylesheet.
+* <code>A sass file starting with an underscore is a partial, That means the stylesheet it's going to be imported (@import) to a main stylesheet.</code>
 
 Name a few (npm) node modules that you think are most useful?
 * <code>Eslint, React Router 4, Create React App </code>
