@@ -6,7 +6,8 @@ We realize there are often multiple solutions or answers to the same questions a
 ## Questions:
 
 What front-end component libraries or frameworks have you used besides bootstrap?
-'jQuery, React, Redux, '
+
+* <code> jQuery, React, Redux,</code>
 
 What tools would you implement to enforce code quality rules and standards? 
 
