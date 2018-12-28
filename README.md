@@ -22,12 +22,11 @@ What HTML templating languages or engines have you used?
 
 
 Which code related blogs or sites do you read regularly?
+ 
+* https://codelabs.developers.google.com/,
+* https://www.udacity.com/
+* YouTube Google Developers Channel
 
-* <code>
-https://codelabs.developers.google.com/,
-https://www.udacity.com/
-YouTube Google Developers Channel
-</code>
 
 
 In Sass, what is the significance of using an underscore at the beginning of a sass file name?
