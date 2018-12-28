@@ -44,7 +44,7 @@ If you were referred to an unfamiliar node project repo, what file or files woul
 
 
 What is the benefit of using the HTML ‘nav’ element vs. a div with the class of .nav?
-* <code> The <nav> element belongs to the new Semantics Elements in HTML5, 
+* <code> The 'nav' element belongs to the new Semantics Elements in HTML5, 
 The main benefit is that the website will have a better performance related to the SEO (Search Engine Optimization).
 If we use all the semantics tags in the website, the bots (spiders from search engines) will read, understand and collect data from the website content more easy and fast. </code>
 
