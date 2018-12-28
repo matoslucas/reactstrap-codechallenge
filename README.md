@@ -31,12 +31,14 @@ Which code related blogs or sites do you read regularly?
 
 In Sass, what is the significance of using an underscore at the beginning of a sass file name?
 
-* A sass file starting with an underscore is a partial, That means the stylesheet its going to be imported (@import) to a main stylesheet.
+* A sass file starting with an underscore is a partial, That means the stylesheet it's going to be imported (@import) to a main stylesheet.
 
 Name a few (npm) node modules that you think are most useful?
 * <code>Eslint, React Router 4, Create React App </code>
 
 Given the option to choose Angular, React or Vue.js for a new project which would you choose and why? What type of requirements might affect your decision to use one over the other?
+* <code> I have started working with Angular 1.x, back in the days until I started to use React, from my point of view I always choose React, because is easy to use (compared to Angular which is more sophisticated), flexible, and powerful, they are the pioneers to introduce in the market the philosophy and the concept of components which Angular have adopted in the end.
+I don't know to much about VUE but Angular and React are products from Google and Facebook then you will always have a better support form those companies.  </code>
 
 
 If you were referred to an unfamiliar node project repo, what file or files would you first look to, to determine the commands to run, build and test the project?
@@ -49,7 +51,7 @@ What is the benefit of using the HTML ‘nav’ element vs. a div with the class
 * <code> If we use all the semantics tags in the website, the bots (spiders from search engines) will read, understand and collect data from the website content more easy and fast. </code>
 
 What code related framework, library or language do you want to learn next?
-* <code>Polymer</code>
+* <code>Polymer, Vue, Angular 7</code>
 
 
 ## Challenge:
