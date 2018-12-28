@@ -7,15 +7,27 @@ We realize there are often multiple solutions or answers to the same questions a
 
 What front-end component libraries or frameworks have you used besides bootstrap?
 
-* <code> jQuery, React, Redux,</code>
+* <code> jQuery, Polymer, Angular 1.4, React, Redux, Redux-form, Webpack, Firebase, React Router 4, Styled Components,
+Material UI, MDB React, FBgraph (Facebook Graph API), Express, 
+ ESLint, lightbox-react, react-linkify, react-dnd (Drag and Drop), 
+react-ga (Google Analytics), react-google-tag-manager.</code>
 
 What tools would you implement to enforce code quality rules and standards? 
 
+* <code> Eslint is a good utility to get code quality rules and standards.</code>
 
 What HTML templating languages or engines have you used?
 
+* <code>I think that with React JSX and the new standard about Template literals, those templates engines are deprecated</code>
+
 
 Which code related blogs or sites do you read regularly?
+
+* <code>
+https://codelabs.developers.google.com/,
+https://www.udacity.com/
+YouTube Google Developers Channel
+</code>
 
 
 In Sass, what is the significance of using an underscore at the beginning of a sass file name?
